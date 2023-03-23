@@ -5,11 +5,21 @@ This is a simple command-line application for managing your to-do tasks. You can
 
 # Installation
 1. Clone this repository:
-git clone https://github.com/sheema-shamil/Todo-app
+git clone 
+- https://github.com/sheema-shamil/Todo-app
 
 2. Install the dependencies:
 - cd todo-task-app
 - npm install
+
+3. Start the application:
+- npm start
+
+# License
+This project is licensed under the MIT License.
+
+# Author
+Sheema Shamil.
 
 
 
